@@ -1,0 +1,52 @@
+# Beady Eye – The Roller
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.05] You didn't know what to say
+[00:04.47] But I'll come at you today
+[00:08.47] Can't get out your own way
+[00:11.39] Well hold on, hold on, hold on
+[00:26.39] 
+[00:16.14] I'm hiding out in the sun
+[00:20.84] I'm getting everyone done
+[00:25.38] Just me hitting the wall
+[00:28.16] Here I come, here I come, here I come
+[00:46.66] 
+[00:33.13] Just call me the roller
+[00:36.08] I'll squeeze and unfold you
+[00:40.63] Call me the roller
+[00:44.66] I'm just gonna show you
+[00:56.16] 
+[00:54.21] So you've been crawling through a maze
+[00:58.87] An alcohol lemon haze
+[01:03.13] I've been watching you for days
+[01:06.17] You've been out of sight, alright, alright
+[01:27.17] 
+[01:11.16] I'll take you somewhere you never need to be
+[01:15.41] I'll give you something you never need to feel
+[01:19.69] The only thing is everything is real tonight, Tonight, tonight
+[01:50.69] 
+[01:25.73] Just call me the roller
+[01:29.83] I'll squeeze and unfold you
+[01:33.97] Call me the roller
+[01:38.72] I'm just gonna show you
+[01:42.93] Just call me the roller
+[01:46.25] I'll come blow you over
+[01:50.84] Call me the roller
+[01:54.99] I'm pleased that I know you
+[02:08.49] 
+[02:24.09] I'll take you somewhere you never need to be
+[02:28.89] I'll give you something you never need to feel
+[02:32.07] The only thing is everything is real
+[02:50.07] 
+[02:35.87] Tonight, tonight, tonight
+[02:39.33] Just call me the roller
+[02:43.25] I'll squeeze and unfold you
+[02:47.64] Call me the roller
+[02:51.62] I'm just gonna show you
+[02:56.87] The roller, the roller, the roller, the roller
+[03:01.58] The roller, the roller, the roller, the roller
+[03:05.91] The roller, the roller, the roller, the roller
+[03:10.24] The roller, the roller
+```
